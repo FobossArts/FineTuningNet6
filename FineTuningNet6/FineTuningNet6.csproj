@@ -7,4 +7,23 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Content Include="bin\Debug\net6.0\arial.ttf" />
+    <Content Include="bin\Debug\net6.0\tf2secondary_0.ttf" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="result\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="itext7" Version="9.2.0" />
+    <PackageReference Include="itext7.bouncy-castle-adapter" Version="9.2.0" />
+    <PackageReference Include="itext7.font-asian" Version="9.2.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="6.0.36" />
+    <PackageReference Include="Npgsql.EntityFrameworkCore.PostgreSQL" Version="6.0.29" />
+    <PackageReference Include="SixLabors.ImageSharp" Version="3.1.8" />
+    <PackageReference Include="System.Drawing.Common" Version="9.0.5" />
+  </ItemGroup>
+
 </Project>

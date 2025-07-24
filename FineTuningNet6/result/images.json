@@ -1,0 +1,478 @@
+[
+  {
+    "name": "AI Tea (Зеленый чай)",
+    "image_url": "https://raw.githubusercontent.com/FobossArts/FineTuningNet6/master/FineTuningNet6/images/AI%20Tea%20%28%D0%97%D0%B5%D0%BB%D0%B5%D0%BD%D1%8B%D0%B9%20%D1%87%D0%B0%D0%B9%29.png"
+  },
+  {
+    "name": "AI Tea(Зеленый чай)",
+    "image_url": "https://raw.githubusercontent.com/FobossArts/FineTuningNet6/master/FineTuningNet6/images/AI%20Tea%28%D0%97%D0%B5%D0%BB%D0%B5%D0%BD%D1%8B%D0%B9%20%D1%87%D0%B0%D0%B9%29.png"
+  },
+  {
+    "name": "Alpen Gold в ассортименте",
+    "image_url": "https://raw.githubusercontent.com/FobossArts/FineTuningNet6/master/FineTuningNet6/images/Alpen%20Gold%20%D0%B2%20%D0%B0%D1%81%D1%81%D0%BE%D1%80%D1%82%D0%B8%D0%BC%D0%B5%D0%BD%D1%82%D0%B5.png"
+  },
+  {
+    "name": "Carte Noir, stick",
+    "image_url": "https://raw.githubusercontent.com/FobossArts/FineTuningNet6/master/FineTuningNet6/images/Carte%20Noir%2C%20stick.png"
+  },
+  {
+    "name": "Chino Lemonade (Чино Лимонад)",
+    "image_url": "https://raw.githubusercontent.com/FobossArts/FineTuningNet6/master/FineTuningNet6/images/Chino%20Lemonade%20%28%D0%A7%D0%B8%D0%BD%D0%BE%20%D0%9B%D0%B8%D0%BC%D0%BE%D0%BD%D0%B0%D0%B4%29.png"
+  },
+  {
+    "name": "Chino Lemonade(Чино Лимонад)",
+    "image_url": "https://raw.githubusercontent.com/FobossArts/FineTuningNet6/master/FineTuningNet6/images/Chino%20Lemonade%28%D0%A7%D0%B8%D0%BD%D0%BE%20%D0%9B%D0%B8%D0%BC%D0%BE%D0%BD%D0%B0%D0%B4%29.png"
+  },
+  {
+    "name": "Cникерс батончик (Snickers",
+    "image_url": "https://raw.githubusercontent.com/FobossArts/FineTuningNet6/master/FineTuningNet6/images/C%D0%BD%D0%B8%D0%BA%D0%B5%D1%80%D1%81%20%D0%B1%D0%B0%D1%82%D0%BE%D0%BD%D1%87%D0%B8%D0%BA%20%28Snickers.png"
+  },
+  {
+    "name": "DADA LETO",
+    "image_url": "https://raw.githubusercontent.com/FobossArts/FineTuningNet6/master/FineTuningNet6/images/DADA%20LETO.png"
+  },
+  {
+    "name": "DADA",
+    "image_url": "https://raw.githubusercontent.com/FobossArts/FineTuningNet6/master/FineTuningNet6/images/DADA.png"
+  },
+  {
+    "name": "Jacobs 3  в 1 “Стандарт”",
+    "image_url": "https://raw.githubusercontent.com/FobossArts/FineTuningNet6/master/FineTuningNet6/images/Jacobs%203%20%20%D0%B2%201%20%E2%80%9C%D0%A1%D1%82%D0%B0%D0%BD%D0%B4%D0%B0%D1%80%D1%82%E2%80%9D.png"
+  },
+  {
+    "name": "Jacobs 3 в 1 (Премиум)",
+    "image_url": "https://raw.githubusercontent.com/FobossArts/FineTuningNet6/master/FineTuningNet6/images/Jacobs%203%20%D0%B2%201%20%28%D0%9F%D1%80%D0%B5%D0%BC%D0%B8%D1%83%D0%BC%29.png"
+  },
+  {
+    "name": "Jacobs 3 в 1 Milka",
+    "image_url": "https://raw.githubusercontent.com/FobossArts/FineTuningNet6/master/FineTuningNet6/images/Jacobs%203%20%D0%B2%201%20Milka.png"
+  },
+  {
+    "name": "Jacobs 3 в 1 Хол Латте",
+    "image_url": "https://raw.githubusercontent.com/FobossArts/FineTuningNet6/master/FineTuningNet6/images/Jacobs%203%20%D0%B2%201%20%D0%A5%D0%BE%D0%BB%20%D0%9B%D0%B0%D1%82%D1%82%D0%B5.png"
+  },
+  {
+    "name": "Jacobs stick",
+    "image_url": "https://raw.githubusercontent.com/FobossArts/FineTuningNet6/master/FineTuningNet6/images/Jacobs%20stick.png"
+  },
+  {
+    "name": "Азу",
+    "image_url": "https://raw.githubusercontent.com/FobossArts/FineTuningNet6/master/FineTuningNet6/images/%D0%90%D0%B7%D1%83.jpg"
+  },
+  {
+    "name": "Балантин",
+    "image_url": "https://raw.githubusercontent.com/FobossArts/FineTuningNet6/master/FineTuningNet6/images/%D0%91%D0%B0%D0%BB%D0%B0%D0%BD%D1%82%D0%B8%D0%BD.png"
+  },
+  {
+    "name": "Баунти батончик (Bounty)",
+    "image_url": "https://raw.githubusercontent.com/FobossArts/FineTuningNet6/master/FineTuningNet6/images/%D0%91%D0%B0%D1%83%D0%BD%D1%82%D0%B8%20%D0%B1%D0%B0%D1%82%D0%BE%D0%BD%D1%87%D0%B8%D0%BA%20%28Bounty%29.png"
+  },
+  {
+    "name": "Баунти Трио (Bounty Trio)",
+    "image_url": "https://raw.githubusercontent.com/FobossArts/FineTuningNet6/master/FineTuningNet6/images/%D0%91%D0%B0%D1%83%D0%BD%D1%82%D0%B8%20%D0%A2%D1%80%D0%B8%D0%BE%20%28Bounty%20Trio%29.png"
+  },
+  {
+    "name": "Бефстроганов",
+    "image_url": "https://raw.githubusercontent.com/FobossArts/FineTuningNet6/master/FineTuningNet6/images/%D0%91%D0%B5%D1%84%D1%81%D1%82%D1%80%D0%BE%D0%B3%D0%B0%D0%BD%D0%BE%D0%B2.jpg"
+  },
+  {
+    "name": "Бифштекс с яйцом",
+    "image_url": "https://raw.githubusercontent.com/FobossArts/FineTuningNet6/master/FineTuningNet6/images/%D0%91%D0%B8%D1%84%D1%88%D1%82%D0%B5%D0%BA%D1%81%20%D1%81%20%D1%8F%D0%B9%D1%86%D0%BE%D0%BC.png"
+  },
+  {
+    "name": "Болонез",
+    "image_url": "https://raw.githubusercontent.com/FobossArts/FineTuningNet6/master/FineTuningNet6/images/%D0%91%D0%BE%D0%BB%D0%BE%D0%BD%D0%B5%D0%B7.png"
+  },
+  {
+    "name": "Борщ с говядиной",
+    "image_url": "https://raw.githubusercontent.com/FobossArts/FineTuningNet6/master/FineTuningNet6/images/%D0%91%D0%BE%D1%80%D1%89%20%D1%81%20%D0%B3%D0%BE%D0%B2%D1%8F%D0%B4%D0%B8%D0%BD%D0%BE%D0%B9.jpg"
+  },
+  {
+    "name": "Боул курица в апельсиновом соусе",
+    "image_url": "https://raw.githubusercontent.com/FobossArts/FineTuningNet6/master/FineTuningNet6/images/%D0%91%D0%BE%D1%83%D0%BB%20%D0%BA%D1%83%D1%80%D0%B8%D1%86%D0%B0%20%D0%B2%20%D0%B0%D0%BF%D0%B5%D0%BB%D1%8C%D1%81%D0%B8%D0%BD%D0%BE%D0%B2%D0%BE%D0%BC%20%D1%81%D0%BE%D1%83%D1%81%D0%B5.png"
+  },
+  {
+    "name": "Боул с курицей Терияки",
+    "image_url": "https://raw.githubusercontent.com/FobossArts/FineTuningNet6/master/FineTuningNet6/images/%D0%91%D0%BE%D1%83%D0%BB%20%D1%81%20%D0%BA%D1%83%D1%80%D0%B8%D1%86%D0%B5%D0%B9%20%D0%A2%D0%B5%D1%80%D0%B8%D1%8F%D0%BA%D0%B8.jpg"
+  },
+  {
+    "name": "Боул с курицей",
+    "image_url": "https://raw.githubusercontent.com/FobossArts/FineTuningNet6/master/FineTuningNet6/images/%D0%91%D0%BE%D1%83%D0%BB%20%D1%81%20%D0%BA%D1%83%D1%80%D0%B8%D1%86%D0%B5%D0%B9.png"
+  },
+  {
+    "name": "Ватрушка",
+    "image_url": "https://raw.githubusercontent.com/FobossArts/FineTuningNet6/master/FineTuningNet6/images/%D0%92%D0%B0%D1%82%D1%80%D1%83%D1%88%D0%BA%D0%B0.png"
+  },
+  {
+    "name": "Винигрет",
+    "image_url": "https://raw.githubusercontent.com/FobossArts/FineTuningNet6/master/FineTuningNet6/images/%D0%92%D0%B8%D0%BD%D0%B8%D0%B3%D1%80%D0%B5%D1%82.png"
+  },
+  {
+    "name": "Дирол в  ассортименте",
+    "image_url": "https://raw.githubusercontent.com/FobossArts/FineTuningNet6/master/FineTuningNet6/images/%D0%94%D0%B8%D1%80%D0%BE%D0%BB%20%D0%B2%20%20%D0%B0%D1%81%D1%81%D0%BE%D1%80%D1%82%D0%B8%D0%BC%D0%B5%D0%BD%D1%82%D0%B5.png"
+  },
+  {
+    "name": "Дирол в ассортименте",
+    "image_url": "https://raw.githubusercontent.com/FobossArts/FineTuningNet6/master/FineTuningNet6/images/%D0%94%D0%B8%D1%80%D0%BE%D0%BB%20%D0%B2%20%D0%B0%D1%81%D1%81%D0%BE%D1%80%D1%82%D0%B8%D0%BC%D0%B5%D0%BD%D1%82%D0%B5.png"
+  },
+  {
+    "name": "Капуста-по-корейски",
+    "image_url": "https://raw.githubusercontent.com/FobossArts/FineTuningNet6/master/FineTuningNet6/images/%D0%9A%D0%B0%D0%BF%D1%83%D1%81%D1%82%D0%B0-%D0%BF%D0%BE-%D0%BA%D0%BE%D1%80%D0%B5%D0%B9%D1%81%D0%BA%D0%B8.jpg"
+  },
+  {
+    "name": "Каркаде",
+    "image_url": "https://raw.githubusercontent.com/FobossArts/FineTuningNet6/master/FineTuningNet6/images/%D0%9A%D0%B0%D1%80%D0%BA%D0%B0%D0%B4%D0%B5.png"
+  },
+  {
+    "name": "Каркадее",
+    "image_url": "https://raw.githubusercontent.com/FobossArts/FineTuningNet6/master/FineTuningNet6/images/%D0%9A%D0%B0%D1%80%D0%BA%D0%B0%D0%B4%D0%B5%D0%B5.png"
+  },
+  {
+    "name": "Картофельные дольки 2025",
+    "image_url": "https://raw.githubusercontent.com/FobossArts/FineTuningNet6/master/FineTuningNet6/images/%D0%9A%D0%B0%D1%80%D1%82%D0%BE%D1%84%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5%20%D0%B4%D0%BE%D0%BB%D1%8C%D0%BA%D0%B8%202025.jpg"
+  },
+  {
+    "name": "Картофельный дольки",
+    "image_url": "https://raw.githubusercontent.com/FobossArts/FineTuningNet6/master/FineTuningNet6/images/%D0%9A%D0%B0%D1%80%D1%82%D0%BE%D1%84%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D0%B4%D0%BE%D0%BB%D1%8C%D0%BA%D0%B8.png"
+  },
+  {
+    "name": "Каша овсяная",
+    "image_url": "https://raw.githubusercontent.com/FobossArts/FineTuningNet6/master/FineTuningNet6/images/%D0%9A%D0%B0%D1%88%D0%B0%20%D0%BE%D0%B2%D1%81%D1%8F%D0%BD%D0%B0%D1%8F.png"
+  },
+  {
+    "name": "Каша пшеная",
+    "image_url": "https://raw.githubusercontent.com/FobossArts/FineTuningNet6/master/FineTuningNet6/images/%D0%9A%D0%B0%D1%88%D0%B0%20%D0%BF%D1%88%D0%B5%D0%BD%D0%B0%D1%8F.png"
+  },
+  {
+    "name": "Каша рисовая 2025",
+    "image_url": "https://raw.githubusercontent.com/FobossArts/FineTuningNet6/master/FineTuningNet6/images/%D0%9A%D0%B0%D1%88%D0%B0%20%D1%80%D0%B8%D1%81%D0%BE%D0%B2%D0%B0%D1%8F%202025.jpg"
+  },
+  {
+    "name": "Каша рисовая",
+    "image_url": "https://raw.githubusercontent.com/FobossArts/FineTuningNet6/master/FineTuningNet6/images/%D0%9A%D0%B0%D1%88%D0%B0%20%D1%80%D0%B8%D1%81%D0%BE%D0%B2%D0%B0%D1%8F.png"
+  },
+  {
+    "name": "Кесадилья",
+    "image_url": "https://raw.githubusercontent.com/FobossArts/FineTuningNet6/master/FineTuningNet6/images/%D0%9A%D0%B5%D1%81%D0%B0%D0%B4%D0%B8%D0%BB%D1%8C%D1%8F.jpg"
+  },
+  {
+    "name": "Компот",
+    "image_url": "https://raw.githubusercontent.com/FobossArts/FineTuningNet6/master/FineTuningNet6/images/%D0%9A%D0%BE%D0%BC%D0%BF%D0%BE%D1%82.png"
+  },
+  {
+    "name": "Компотт",
+    "image_url": "https://raw.githubusercontent.com/FobossArts/FineTuningNet6/master/FineTuningNet6/images/%D0%9A%D0%BE%D0%BC%D0%BF%D0%BE%D1%82%D1%82.png"
+  },
+  {
+    "name": "КорденБлю Шницель",
+    "image_url": "https://raw.githubusercontent.com/FobossArts/FineTuningNet6/master/FineTuningNet6/images/%D0%9A%D0%BE%D1%80%D0%B4%D0%B5%D0%BD%D0%91%D0%BB%D1%8E%20%D0%A8%D0%BD%D0%B8%D1%86%D0%B5%D0%BB%D1%8C.jpg"
+  },
+  {
+    "name": "Котлета говяжья",
+    "image_url": "https://raw.githubusercontent.com/FobossArts/FineTuningNet6/master/FineTuningNet6/images/%D0%9A%D0%BE%D1%82%D0%BB%D0%B5%D1%82%D0%B0%20%D0%B3%D0%BE%D0%B2%D1%8F%D0%B6%D1%8C%D1%8F.png"
+  },
+  {
+    "name": "Котлета Жастар",
+    "image_url": "https://raw.githubusercontent.com/FobossArts/FineTuningNet6/master/FineTuningNet6/images/%D0%9A%D0%BE%D1%82%D0%BB%D0%B5%D1%82%D0%B0%20%D0%96%D0%B0%D1%81%D1%82%D0%B0%D1%80.png"
+  },
+  {
+    "name": "Крок Месье",
+    "image_url": "https://raw.githubusercontent.com/FobossArts/FineTuningNet6/master/FineTuningNet6/images/%D0%9A%D1%80%D0%BE%D0%BA%20%D0%9C%D0%B5%D1%81%D1%8C%D0%B5.png"
+  },
+  {
+    "name": "Куриное филе с ветчиной и сыром",
+    "image_url": "https://raw.githubusercontent.com/FobossArts/FineTuningNet6/master/FineTuningNet6/images/%D0%9A%D1%83%D1%80%D0%B8%D0%BD%D0%BE%D0%B5%20%D1%84%D0%B8%D0%BB%D0%B5%20%D1%81%20%D0%B2%D0%B5%D1%82%D1%87%D0%B8%D0%BD%D0%BE%D0%B9%20%D0%B8%20%D1%81%D1%8B%D1%80%D0%BE%D0%BC.png"
+  },
+  {
+    "name": "Куриное филе с грибами",
+    "image_url": "https://raw.githubusercontent.com/FobossArts/FineTuningNet6/master/FineTuningNet6/images/%D0%9A%D1%83%D1%80%D0%B8%D0%BD%D0%BE%D0%B5%20%D1%84%D0%B8%D0%BB%D0%B5%20%D1%81%20%D0%B3%D1%80%D0%B8%D0%B1%D0%B0%D0%BC%D0%B8.png"
+  },
+  {
+    "name": "Куриное филе с грибным соусом\u00A02025",
+    "image_url": "https://raw.githubusercontent.com/FobossArts/FineTuningNet6/master/FineTuningNet6/images/%D0%9A%D1%83%D1%80%D0%B8%D0%BD%D0%BE%D0%B5%20%D1%84%D0%B8%D0%BB%D0%B5%20%D1%81%20%D0%B3%D1%80%D0%B8%D0%B1%D0%BD%D1%8B%D0%BC%20%D1%81%D0%BE%D1%83%D1%81%D0%BE%D0%BC%C2%A02025.jpg"
+  },
+  {
+    "name": "Куриное филе с сыром и помидорами",
+    "image_url": "https://raw.githubusercontent.com/FobossArts/FineTuningNet6/master/FineTuningNet6/images/%D0%9A%D1%83%D1%80%D0%B8%D0%BD%D0%BE%D0%B5%20%D1%84%D0%B8%D0%BB%D0%B5%20%D1%81%20%D1%81%D1%8B%D1%80%D0%BE%D0%BC%20%D0%B8%20%D0%BF%D0%BE%D0%BC%D0%B8%D0%B4%D0%BE%D1%80%D0%B0%D0%BC%D0%B8.jpg"
+  },
+  {
+    "name": "Курица в апельсиновом соусе",
+    "image_url": "https://raw.githubusercontent.com/FobossArts/FineTuningNet6/master/FineTuningNet6/images/%D0%9A%D1%83%D1%80%D0%B8%D1%86%D0%B0%20%D0%B2%20%D0%B0%D0%BF%D0%B5%D0%BB%D1%8C%D1%81%D0%B8%D0%BD%D0%BE%D0%B2%D0%BE%D0%BC%20%D1%81%D0%BE%D1%83%D1%81%D0%B5.png"
+  },
+  {
+    "name": "Курица в кисло сладком соусе",
+    "image_url": "https://raw.githubusercontent.com/FobossArts/FineTuningNet6/master/FineTuningNet6/images/%D0%9A%D1%83%D1%80%D0%B8%D1%86%D0%B0%20%D0%B2%20%D0%BA%D0%B8%D1%81%D0%BB%D0%BE%20%D1%81%D0%BB%D0%B0%D0%B4%D0%BA%D0%BE%D0%BC%20%D1%81%D0%BE%D1%83%D1%81%D0%B5.png"
+  },
+  {
+    "name": "Курица в кисло-сладком соусе",
+    "image_url": "https://raw.githubusercontent.com/FobossArts/FineTuningNet6/master/FineTuningNet6/images/%D0%9A%D1%83%D1%80%D0%B8%D1%86%D0%B0%20%D0%B2%20%D0%BA%D0%B8%D1%81%D0%BB%D0%BE-%D1%81%D0%BB%D0%B0%D0%B4%D0%BA%D0%BE%D0%BC%20%D1%81%D0%BE%D1%83%D1%81%D0%B5.jpg"
+  },
+  {
+    "name": "Курица в сливочном соусе",
+    "image_url": "https://raw.githubusercontent.com/FobossArts/FineTuningNet6/master/FineTuningNet6/images/%D0%9A%D1%83%D1%80%D0%B8%D1%86%D0%B0%20%D0%B2%20%D1%81%D0%BB%D0%B8%D0%B2%D0%BE%D1%87%D0%BD%D0%BE%D0%BC%20%D1%81%D0%BE%D1%83%D1%81%D0%B5.jpg"
+  },
+  {
+    "name": "Курица Терияки",
+    "image_url": "https://raw.githubusercontent.com/FobossArts/FineTuningNet6/master/FineTuningNet6/images/%D0%9A%D1%83%D1%80%D0%B8%D1%86%D0%B0%20%D0%A2%D0%B5%D1%80%D0%B8%D1%8F%D0%BA%D0%B8.jpg"
+  },
+  {
+    "name": "Курица филе с ветчиной и сыром",
+    "image_url": "https://raw.githubusercontent.com/FobossArts/FineTuningNet6/master/FineTuningNet6/images/%D0%9A%D1%83%D1%80%D0%B8%D1%86%D0%B0%20%D1%84%D0%B8%D0%BB%D0%B5%20%D1%81%20%D0%B2%D0%B5%D1%82%D1%87%D0%B8%D0%BD%D0%BE%D0%B9%20%D0%B8%20%D1%81%D1%8B%D1%80%D0%BE%D0%BC.png"
+  },
+  {
+    "name": "Лимонад Буратино 0,3",
+    "image_url": "https://raw.githubusercontent.com/FobossArts/FineTuningNet6/master/FineTuningNet6/images/%D0%9B%D0%B8%D0%BC%D0%BE%D0%BD%D0%B0%D0%B4%20%D0%91%D1%83%D1%80%D0%B0%D1%82%D0%B8%D0%BD%D0%BE%200%2C3.png"
+  },
+  {
+    "name": "Лимонад Буратино 0,5",
+    "image_url": "https://raw.githubusercontent.com/FobossArts/FineTuningNet6/master/FineTuningNet6/images/%D0%9B%D0%B8%D0%BC%D0%BE%D0%BD%D0%B0%D0%B4%20%D0%91%D1%83%D1%80%D0%B0%D1%82%D0%B8%D0%BD%D0%BE%200%2C5.png"
+  },
+  {
+    "name": "ЛимонадБуратино 0,5",
+    "image_url": "https://raw.githubusercontent.com/FobossArts/FineTuningNet6/master/FineTuningNet6/images/%D0%9B%D0%B8%D0%BC%D0%BE%D0%BD%D0%B0%D0%B4%D0%91%D1%83%D1%80%D0%B0%D1%82%D0%B8%D0%BD%D0%BE%200%2C5.png"
+  },
+  {
+    "name": "Марс батончик (Mars",
+    "image_url": "https://raw.githubusercontent.com/FobossArts/FineTuningNet6/master/FineTuningNet6/images/%D0%9C%D0%B0%D1%80%D1%81%20%D0%B1%D0%B0%D1%82%D0%BE%D0%BD%D1%87%D0%B8%D0%BA%20%28Mars.png"
+  },
+  {
+    "name": "Мясо по Тайский",
+    "image_url": "https://raw.githubusercontent.com/FobossArts/FineTuningNet6/master/FineTuningNet6/images/%D0%9C%D1%8F%D1%81%D0%BE%20%D0%BF%D0%BE%20%D0%A2%D0%B0%D0%B9%D1%81%D0%BA%D0%B8%D0%B9.png"
+  },
+  {
+    "name": "Паприкаш",
+    "image_url": "https://raw.githubusercontent.com/FobossArts/FineTuningNet6/master/FineTuningNet6/images/%D0%9F%D0%B0%D0%BF%D1%80%D0%B8%D0%BA%D0%B0%D1%88.png"
+  },
+  {
+    "name": "Пепси (Pepsi)",
+    "image_url": "https://raw.githubusercontent.com/FobossArts/FineTuningNet6/master/FineTuningNet6/images/%D0%9F%D0%B5%D0%BF%D1%81%D0%B8%20%28Pepsi%29.png"
+  },
+  {
+    "name": "Пепси(Pepsi)",
+    "image_url": "https://raw.githubusercontent.com/FobossArts/FineTuningNet6/master/FineTuningNet6/images/%D0%9F%D0%B5%D0%BF%D1%81%D0%B8%28Pepsi%29.png"
+  },
+  {
+    "name": "Пиала Айс Ти (Piala Ice Tea)",
+    "image_url": "https://raw.githubusercontent.com/FobossArts/FineTuningNet6/master/FineTuningNet6/images/%D0%9F%D0%B8%D0%B0%D0%BB%D0%B0%20%D0%90%D0%B9%D1%81%20%D0%A2%D0%B8%20%28Piala%20Ice%20Tea%29.png"
+  },
+  {
+    "name": "Пиала Айс Ти(Piala Ice Tea)",
+    "image_url": "https://raw.githubusercontent.com/FobossArts/FineTuningNet6/master/FineTuningNet6/images/%D0%9F%D0%B8%D0%B0%D0%BB%D0%B0%20%D0%90%D0%B9%D1%81%20%D0%A2%D0%B8%28Piala%20Ice%20Tea%29.png"
+  },
+  {
+    "name": "Пирожок с капустой",
+    "image_url": "https://raw.githubusercontent.com/FobossArts/FineTuningNet6/master/FineTuningNet6/images/%D0%9F%D0%B8%D1%80%D0%BE%D0%B6%D0%BE%D0%BA%20%D1%81%20%D0%BA%D0%B0%D0%BF%D1%83%D1%81%D1%82%D0%BE%D0%B9.png"
+  },
+  {
+    "name": "Пирожок с картофелем",
+    "image_url": "https://raw.githubusercontent.com/FobossArts/FineTuningNet6/master/FineTuningNet6/images/%D0%9F%D0%B8%D1%80%D0%BE%D0%B6%D0%BE%D0%BA%20%D1%81%20%D0%BA%D0%B0%D1%80%D1%82%D0%BE%D1%84%D0%B5%D0%BB%D0%B5%D0%BC.png"
+  },
+  {
+    "name": "Пицца Пепперони",
+    "image_url": "https://raw.githubusercontent.com/FobossArts/FineTuningNet6/master/FineTuningNet6/images/%D0%9F%D0%B8%D1%86%D1%86%D0%B0%20%D0%9F%D0%B5%D0%BF%D0%BF%D0%B5%D1%80%D0%BE%D0%BD%D0%B8.png"
+  },
+  {
+    "name": "Пицца помидоры с сыром",
+    "image_url": "https://raw.githubusercontent.com/FobossArts/FineTuningNet6/master/FineTuningNet6/images/%D0%9F%D0%B8%D1%86%D1%86%D0%B0%20%D0%BF%D0%BE%D0%BC%D0%B8%D0%B4%D0%BE%D1%80%D1%8B%20%D1%81%20%D1%81%D1%8B%D1%80%D0%BE%D0%BC.png"
+  },
+  {
+    "name": "Пицца с ветчиной и сыром",
+    "image_url": "https://raw.githubusercontent.com/FobossArts/FineTuningNet6/master/FineTuningNet6/images/%D0%9F%D0%B8%D1%86%D1%86%D0%B0%20%D1%81%20%D0%B2%D0%B5%D1%82%D1%87%D0%B8%D0%BD%D0%BE%D0%B9%20%D0%B8%20%D1%81%D1%8B%D1%80%D0%BE%D0%BC.png"
+  },
+  {
+    "name": "Пицца Цезарь",
+    "image_url": "https://raw.githubusercontent.com/FobossArts/FineTuningNet6/master/FineTuningNet6/images/%D0%9F%D0%B8%D1%86%D1%86%D0%B0%20%D0%A6%D0%B5%D0%B7%D0%B0%D1%80%D1%8C.png"
+  },
+  {
+    "name": "Плов с говядиной",
+    "image_url": "https://raw.githubusercontent.com/FobossArts/FineTuningNet6/master/FineTuningNet6/images/%D0%9F%D0%BB%D0%BE%D0%B2%20%D1%81%20%D0%B3%D0%BE%D0%B2%D1%8F%D0%B4%D0%B8%D0%BD%D0%BE%D0%B9.png"
+  },
+  {
+    "name": "Пюре картофельное",
+    "image_url": "https://raw.githubusercontent.com/FobossArts/FineTuningNet6/master/FineTuningNet6/images/%D0%9F%D1%8E%D1%80%D0%B5%20%D0%BA%D0%B0%D1%80%D1%82%D0%BE%D1%84%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5.png"
+  },
+  {
+    "name": "Рис жареный с яйцом 2025",
+    "image_url": "https://raw.githubusercontent.com/FobossArts/FineTuningNet6/master/FineTuningNet6/images/%D0%A0%D0%B8%D1%81%20%D0%B6%D0%B0%D1%80%D0%B5%D0%BD%D1%8B%D0%B9%20%D1%81%20%D1%8F%D0%B9%D1%86%D0%BE%D0%BC%202025.jpg"
+  },
+  {
+    "name": "Рис жареный",
+    "image_url": "https://raw.githubusercontent.com/FobossArts/FineTuningNet6/master/FineTuningNet6/images/%D0%A0%D0%B8%D1%81%20%D0%B6%D0%B0%D1%80%D0%B5%D0%BD%D1%8B%D0%B9.png"
+  },
+  {
+    "name": "Рис",
+    "image_url": "https://raw.githubusercontent.com/FobossArts/FineTuningNet6/master/FineTuningNet6/images/%D0%A0%D0%B8%D1%81.png"
+  },
+  {
+    "name": "Салат Ачучук",
+    "image_url": "https://raw.githubusercontent.com/FobossArts/FineTuningNet6/master/FineTuningNet6/images/%D0%A1%D0%B0%D0%BB%D0%B0%D1%82%20%D0%90%D1%87%D1%83%D1%87%D1%83%D0%BA.png"
+  },
+  {
+    "name": "Салат гнездо глухаря",
+    "image_url": "https://raw.githubusercontent.com/FobossArts/FineTuningNet6/master/FineTuningNet6/images/%D0%A1%D0%B0%D0%BB%D0%B0%D1%82%20%D0%B3%D0%BD%D0%B5%D0%B7%D0%B4%D0%BE%20%D0%B3%D0%BB%D1%83%D1%85%D0%B0%D1%80%D1%8F.png"
+  },
+  {
+    "name": "Салат Капустный по корейски\u00A02025",
+    "image_url": "https://raw.githubusercontent.com/FobossArts/FineTuningNet6/master/FineTuningNet6/images/%D0%A1%D0%B0%D0%BB%D0%B0%D1%82%20%D0%9A%D0%B0%D0%BF%D1%83%D1%81%D1%82%D0%BD%D1%8B%D0%B9%20%D0%BF%D0%BE%20%D0%BA%D0%BE%D1%80%D0%B5%D0%B9%D1%81%D0%BA%D0%B8%C2%A02025.jpg"
+  },
+  {
+    "name": "Салат КоуСлоу",
+    "image_url": "https://raw.githubusercontent.com/FobossArts/FineTuningNet6/master/FineTuningNet6/images/%D0%A1%D0%B0%D0%BB%D0%B0%D1%82%20%D0%9A%D0%BE%D1%83%D0%A1%D0%BB%D0%BE%D1%83.png"
+  },
+  {
+    "name": "Салат крабовый",
+    "image_url": "https://raw.githubusercontent.com/FobossArts/FineTuningNet6/master/FineTuningNet6/images/%D0%A1%D0%B0%D0%BB%D0%B0%D1%82%20%D0%BA%D1%80%D0%B0%D0%B1%D0%BE%D0%B2%D1%8B%D0%B9.png"
+  },
+  {
+    "name": "Салат Малибу",
+    "image_url": "https://raw.githubusercontent.com/FobossArts/FineTuningNet6/master/FineTuningNet6/images/%D0%A1%D0%B0%D0%BB%D0%B0%D1%82%20%D0%9C%D0%B0%D0%BB%D0%B8%D0%B1%D1%83.png"
+  },
+  {
+    "name": "Салат морковный",
+    "image_url": "https://raw.githubusercontent.com/FobossArts/FineTuningNet6/master/FineTuningNet6/images/%D0%A1%D0%B0%D0%BB%D0%B0%D1%82%20%D0%BC%D0%BE%D1%80%D0%BA%D0%BE%D0%B2%D0%BD%D1%8B%D0%B9.png"
+  },
+  {
+    "name": "Салат оливье",
+    "image_url": "https://raw.githubusercontent.com/FobossArts/FineTuningNet6/master/FineTuningNet6/images/%D0%A1%D0%B0%D0%BB%D0%B0%D1%82%20%D0%BE%D0%BB%D0%B8%D0%B2%D1%8C%D0%B5.png"
+  },
+  {
+    "name": "Салат с крабовыми палочками\u00A02025",
+    "image_url": "https://raw.githubusercontent.com/FobossArts/FineTuningNet6/master/FineTuningNet6/images/%D0%A1%D0%B0%D0%BB%D0%B0%D1%82%20%D1%81%20%D0%BA%D1%80%D0%B0%D0%B1%D0%BE%D0%B2%D1%8B%D0%BC%D0%B8%20%D0%BF%D0%B0%D0%BB%D0%BE%D1%87%D0%BA%D0%B0%D0%BC%D0%B8%C2%A02025.jpg"
+  },
+  {
+    "name": "Салат столичный 2025\u00A0(КГ)",
+    "image_url": "https://raw.githubusercontent.com/FobossArts/FineTuningNet6/master/FineTuningNet6/images/%D0%A1%D0%B0%D0%BB%D0%B0%D1%82%20%D1%81%D1%82%D0%BE%D0%BB%D0%B8%D1%87%D0%BD%D1%8B%D0%B9%202025%C2%A0%28%D0%9A%D0%93%29.jpg"
+  },
+  {
+    "name": "Салат Столичный",
+    "image_url": "https://raw.githubusercontent.com/FobossArts/FineTuningNet6/master/FineTuningNet6/images/%D0%A1%D0%B0%D0%BB%D0%B0%D1%82%20%D0%A1%D1%82%D0%BE%D0%BB%D0%B8%D1%87%D0%BD%D1%8B%D0%B9.png"
+  },
+  {
+    "name": "Салат Французский",
+    "image_url": "https://raw.githubusercontent.com/FobossArts/FineTuningNet6/master/FineTuningNet6/images/%D0%A1%D0%B0%D0%BB%D0%B0%D1%82%20%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D1%83%D0%B7%D1%81%D0%BA%D0%B8%D0%B9.jpg"
+  },
+  {
+    "name": "Салат фунчоза",
+    "image_url": "https://raw.githubusercontent.com/FobossArts/FineTuningNet6/master/FineTuningNet6/images/%D0%A1%D0%B0%D0%BB%D0%B0%D1%82%20%D1%84%D1%83%D0%BD%D1%87%D0%BE%D0%B7%D0%B0.jpg"
+  },
+  {
+    "name": "Самса с картофелем",
+    "image_url": "https://raw.githubusercontent.com/FobossArts/FineTuningNet6/master/FineTuningNet6/images/%D0%A1%D0%B0%D0%BC%D1%81%D0%B0%20%D1%81%20%D0%BA%D0%B0%D1%80%D1%82%D0%BE%D1%84%D0%B5%D0%BB%D0%B5%D0%BC.png"
+  },
+  {
+    "name": "Самса с курицей",
+    "image_url": "https://raw.githubusercontent.com/FobossArts/FineTuningNet6/master/FineTuningNet6/images/%D0%A1%D0%B0%D0%BC%D1%81%D0%B0%20%D1%81%20%D0%BA%D1%83%D1%80%D0%B8%D1%86%D0%B5%D0%B9.png"
+  },
+  {
+    "name": "Самса с мясом",
+    "image_url": "https://raw.githubusercontent.com/FobossArts/FineTuningNet6/master/FineTuningNet6/images/%D0%A1%D0%B0%D0%BC%D1%81%D0%B0%20%D1%81%20%D0%BC%D1%8F%D1%81%D0%BE%D0%BC.png"
+  },
+  {
+    "name": "Самса с сыром",
+    "image_url": "https://raw.githubusercontent.com/FobossArts/FineTuningNet6/master/FineTuningNet6/images/%D0%A1%D0%B0%D0%BC%D1%81%D0%B0%20%D1%81%20%D1%81%D1%8B%D1%80%D0%BE%D0%BC.png"
+  },
+  {
+    "name": "Сендвич тортилия",
+    "image_url": "https://raw.githubusercontent.com/FobossArts/FineTuningNet6/master/FineTuningNet6/images/%D0%A1%D0%B5%D0%BD%D0%B4%D0%B2%D0%B8%D1%87%20%D1%82%D0%BE%D1%80%D1%82%D0%B8%D0%BB%D0%B8%D1%8F.jpg"
+  },
+  {
+    "name": "Синнабон",
+    "image_url": "https://raw.githubusercontent.com/FobossArts/FineTuningNet6/master/FineTuningNet6/images/%D0%A1%D0%B8%D0%BD%D0%BD%D0%B0%D0%B1%D0%BE%D0%BD.png"
+  },
+  {
+    "name": "Сникерс лесной  орех",
+    "image_url": "https://raw.githubusercontent.com/FobossArts/FineTuningNet6/master/FineTuningNet6/images/%D0%A1%D0%BD%D0%B8%D0%BA%D0%B5%D1%80%D1%81%20%D0%BB%D0%B5%D1%81%D0%BD%D0%BE%D0%B9%20%20%D0%BE%D1%80%D0%B5%D1%85.png"
+  },
+  {
+    "name": "Сникерс Супер (Snickers Super)",
+    "image_url": "https://raw.githubusercontent.com/FobossArts/FineTuningNet6/master/FineTuningNet6/images/%D0%A1%D0%BD%D0%B8%D0%BA%D0%B5%D1%80%D1%81%20%D0%A1%D1%83%D0%BF%D0%B5%D1%80%20%28Snickers%20Super%29.png"
+  },
+  {
+    "name": "Солянка",
+    "image_url": "https://raw.githubusercontent.com/FobossArts/FineTuningNet6/master/FineTuningNet6/images/%D0%A1%D0%BE%D0%BB%D1%8F%D0%BD%D0%BA%D0%B0.jpg"
+  },
+  {
+    "name": "Сорпа с куриной ножкой",
+    "image_url": "https://raw.githubusercontent.com/FobossArts/FineTuningNet6/master/FineTuningNet6/images/%D0%A1%D0%BE%D1%80%D0%BF%D0%B0%20%D1%81%20%D0%BA%D1%83%D1%80%D0%B8%D0%BD%D0%BE%D0%B9%20%D0%BD%D0%BE%D0%B6%D0%BA%D0%BE%D0%B9.png"
+  },
+  {
+    "name": "Сосиски жаренные 2025, Яичница глазунья\u00A02025",
+    "image_url": "https://raw.githubusercontent.com/FobossArts/FineTuningNet6/master/FineTuningNet6/images/%D0%A1%D0%BE%D1%81%D0%B8%D1%81%D0%BA%D0%B8%20%D0%B6%D0%B0%D1%80%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5%202025%2C%20%D0%AF%D0%B8%D1%87%D0%BD%D0%B8%D1%86%D0%B0%20%D0%B3%D0%BB%D0%B0%D0%B7%D1%83%D0%BD%D1%8C%D1%8F%C2%A02025.jpg"
+  },
+  {
+    "name": "Суп гуляш",
+    "image_url": "https://raw.githubusercontent.com/FobossArts/FineTuningNet6/master/FineTuningNet6/images/%D0%A1%D1%83%D0%BF%20%D0%B3%D1%83%D0%BB%D1%8F%D1%88.png"
+  },
+  {
+    "name": "суп рассольник",
+    "image_url": "https://raw.githubusercontent.com/FobossArts/FineTuningNet6/master/FineTuningNet6/images/%D1%81%D1%83%D0%BF%20%D1%80%D0%B0%D1%81%D1%81%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA.png"
+  },
+  {
+    "name": "Суп свекольник",
+    "image_url": "https://raw.githubusercontent.com/FobossArts/FineTuningNet6/master/FineTuningNet6/images/%D0%A1%D1%83%D0%BF%20%D1%81%D0%B2%D0%B5%D0%BA%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA.png"
+  },
+  {
+    "name": "Суп Чаудер кукурузный",
+    "image_url": "https://raw.githubusercontent.com/FobossArts/FineTuningNet6/master/FineTuningNet6/images/%D0%A1%D1%83%D0%BF%20%D0%A7%D0%B0%D1%83%D0%B4%D0%B5%D1%80%20%D0%BA%D1%83%D0%BA%D1%83%D1%80%D1%83%D0%B7%D0%BD%D1%8B%D0%B9.png"
+  },
+  {
+    "name": "Суп чечевичный",
+    "image_url": "https://raw.githubusercontent.com/FobossArts/FineTuningNet6/master/FineTuningNet6/images/%D0%A1%D1%83%D0%BF%20%D1%87%D0%B5%D1%87%D0%B5%D0%B2%D0%B8%D1%87%D0%BD%D1%8B%D0%B9.jpg"
+  },
+  {
+    "name": "Сырники",
+    "image_url": "https://raw.githubusercontent.com/FobossArts/FineTuningNet6/master/FineTuningNet6/images/%D0%A1%D1%8B%D1%80%D0%BD%D0%B8%D0%BA%D0%B8.png"
+  },
+  {
+    "name": "Сырники2",
+    "image_url": "https://raw.githubusercontent.com/FobossArts/FineTuningNet6/master/FineTuningNet6/images/%D0%A1%D1%8B%D1%80%D0%BD%D0%B8%D0%BA%D0%B82.jpg"
+  },
+  {
+    "name": "Сэндвич Тортилия",
+    "image_url": "https://raw.githubusercontent.com/FobossArts/FineTuningNet6/master/FineTuningNet6/images/%D0%A1%D1%8D%D0%BD%D0%B4%D0%B2%D0%B8%D1%87%20%D0%A2%D0%BE%D1%80%D1%82%D0%B8%D0%BB%D0%B8%D1%8F.jpg"
+  },
+  {
+    "name": "Твикс батончик (Twix)",
+    "image_url": "https://raw.githubusercontent.com/FobossArts/FineTuningNet6/master/FineTuningNet6/images/%D0%A2%D0%B2%D0%B8%D0%BA%D1%81%20%D0%B1%D0%B0%D1%82%D0%BE%D0%BD%D1%87%D0%B8%D0%BA%20%28Twix%29.png"
+  },
+  {
+    "name": "Твикс Экстра (Twix Xtra)",
+    "image_url": "https://raw.githubusercontent.com/FobossArts/FineTuningNet6/master/FineTuningNet6/images/%D0%A2%D0%B2%D0%B8%D0%BA%D1%81%20%D0%AD%D0%BA%D1%81%D1%82%D1%80%D0%B0%20%28Twix%20Xtra%29.png"
+  },
+  {
+    "name": "Тефтели",
+    "image_url": "https://raw.githubusercontent.com/FobossArts/FineTuningNet6/master/FineTuningNet6/images/%D0%A2%D0%B5%D1%84%D1%82%D0%B5%D0%BB%D0%B8.jpg"
+  },
+  {
+    "name": "Фахитос из курицы",
+    "image_url": "https://raw.githubusercontent.com/FobossArts/FineTuningNet6/master/FineTuningNet6/images/%D0%A4%D0%B0%D1%85%D0%B8%D1%82%D0%BE%D1%81%20%D0%B8%D0%B7%20%D0%BA%D1%83%D1%80%D0%B8%D1%86%D1%8B.png"
+  },
+  {
+    "name": "Фахитос с курицей 2025",
+    "image_url": "https://raw.githubusercontent.com/FobossArts/FineTuningNet6/master/FineTuningNet6/images/%D0%A4%D0%B0%D1%85%D0%B8%D1%82%D0%BE%D1%81%20%D1%81%20%D0%BA%D1%83%D1%80%D0%B8%D1%86%D0%B5%D0%B9%202025.jpg"
+  },
+  {
+    "name": "Чай 3 в 1",
+    "image_url": "https://raw.githubusercontent.com/FobossArts/FineTuningNet6/master/FineTuningNet6/images/%D0%A7%D0%B0%D0%B9%203%20%D0%B2%201.png"
+  },
+  {
+    "name": "Чай пакетированный",
+    "image_url": "https://raw.githubusercontent.com/FobossArts/FineTuningNet6/master/FineTuningNet6/images/%D0%A7%D0%B0%D0%B9%20%D0%BF%D0%B0%D0%BA%D0%B5%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D1%8B%D0%B9.png"
+  },
+  {
+    "name": "Чахохбили",
+    "image_url": "https://raw.githubusercontent.com/FobossArts/FineTuningNet6/master/FineTuningNet6/images/%D0%A7%D0%B0%D1%85%D0%BE%D1%85%D0%B1%D0%B8%D0%BB%D0%B8.jpg"
+  },
+  {
+    "name": "Щи с капустой",
+    "image_url": "https://raw.githubusercontent.com/FobossArts/FineTuningNet6/master/FineTuningNet6/images/%D0%A9%D0%B8%20%D1%81%20%D0%BA%D0%B0%D0%BF%D1%83%D1%81%D1%82%D0%BE%D0%B9.png"
+  },
+  {
+    "name": "Яичница",
+    "image_url": "https://raw.githubusercontent.com/FobossArts/FineTuningNet6/master/FineTuningNet6/images/%D0%AF%D0%B8%D1%87%D0%BD%D0%B8%D1%86%D0%B0.png"
+  },
+  {
+    "name": "⁠Боул в кисло сладком соусе",
+    "image_url": "https://raw.githubusercontent.com/FobossArts/FineTuningNet6/master/FineTuningNet6/images/%E2%81%A0%D0%91%D0%BE%D1%83%D0%BB%20%D0%B2%20%D0%BA%D0%B8%D1%81%D0%BB%D0%BE%20%D1%81%D0%BB%D0%B0%D0%B4%D0%BA%D0%BE%D0%BC%20%D1%81%D0%BE%D1%83%D1%81%D0%B5.jpg"
+  }
+]
